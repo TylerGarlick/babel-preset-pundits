@@ -1,6 +1,13 @@
-# babel-presets-pundits
+![Pundits](https://github.com/TylerGarlick/babel-presets-pundits/raw/master/docs/pundits.png)
 
+---
+
+### Babel Preset Pundits
 > A simple babel preset that eases setup and configuration of projects.  This module will be maintained to keep up with the new plugins, presets, and other babel utilities.
+
+
+
+
 
 ## Install
 
