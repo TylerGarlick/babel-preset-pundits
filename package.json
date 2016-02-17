@@ -1,25 +1,25 @@
 {
-  "name": "babel-presets-pundits",
-  "version": "1.0.0",
-  "description": "Babel preset that includes es2015, es7, async/await, etc",
+  "name": "babel-preset-pundits",
+  "version": "1.0.1",
+  "description": "Babel preset to make node5 utilize es7 with additional enhancements",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://TylerGarlick@github.com/TylerGarlick/babel-presets-pundits.git"
-  },
+  "repository": "https://TylerGarlick@github.com/TylerGarlick/babel-preset-pundits",
   "keywords": [
     "es2015",
     "es7",
+    "es2016",
     "babel",
     "es6",
-    "babel-preset"
+    "babel-preset",
+    "babel-preset-",
+    "node5"
   ],
   "author": "Tyler Garlick <tjgarlick@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TylerGarlick/babel-presets-pundits/issues"
+    "url": "https://github.com/TylerGarlick/babel-preset-pundits/issues"
   },
-  "homepage": "https://github.com/TylerGarlick/babel-presets-pundits#readme",
+  "homepage": "https://github.com/TylerGarlick/babel-preset-pundits#readme",
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.1.2",
     "babel-plugin-syntax-async-functions": "^6.5.0",
