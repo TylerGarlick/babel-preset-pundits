@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-pundits",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Babel preset to make node5 utilize es7 with additional enhancements",
   "main": "index.js",
   "repository": "https://TylerGarlick@github.com/TylerGarlick/babel-preset-pundits",
@@ -24,14 +24,14 @@
     "babel-plugin-add-module-exports": "^0.1.2",
     "babel-plugin-syntax-async-functions": "^6.5.0",
     "babel-plugin-syntax-async-generators": "^6.5.0",
-    "babel-plugin-transform-async-to-generator": "^6.5.0",
+    "babel-plugin-transform-async-to-generator": "^6.7.0",
     "babel-plugin-transform-catch-polyfill": "^0.2.1",
-    "babel-plugin-transform-class-properties": "^6.5.2",
-    "babel-plugin-transform-decorators": "^6.5.0",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.5.2",
+    "babel-plugin-transform-class-properties": "^6.6.0",
+    "babel-plugin-transform-decorators": "^6.6.5",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.7.0",
     "babel-plugin-transform-export-extensions": "^6.5.0",
-    "babel-plugin-transform-object-rest-spread": "^6.5.0",
-    "babel-plugin-transform-regenerator": "^6.5.2",
+    "babel-plugin-transform-object-rest-spread": "^6.6.5",
+    "babel-plugin-transform-regenerator": "^6.6.5",
     "babel-preset-es2016-node5": "^1.1.2"
   }
 }
