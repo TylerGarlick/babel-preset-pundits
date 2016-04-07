@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-pundits",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Babel preset to make node5 utilize es7 with additional enhancements",
   "main": "index.js",
   "repository": "https:/github.com/TylerGarlick/babel-preset-pundits",
