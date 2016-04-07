@@ -44,7 +44,8 @@ require('babel-core').transform('code', {
 
 #### Presets
 
-* [babel-preset-es2016-node5](https://www.npmjs.com/package/babel-preset-es2016-node5) - Sets up node5 to be compatible with ES2016 and async
+* [babel-preset-es2016-node4](https://www.npmjs.com/package/babel-preset-es2016-node4) - Sets up node5 to be compatible with ES2016 and async
+* [babel-preset-async-to-bluebird](https://www.npmjs.com/package/babel-preset-async-to-bluebird) -Converts async functions to bluebird coroutines
 
 
 #### Plugins
@@ -54,4 +55,6 @@ require('babel-core').transform('code', {
 * [babel-plugin-transform-decorators](http://babeljs.io/docs/plugins/transform-decorators) - Class annotations
 * [babel-plugin-transform-export-extensions](http://babeljs.io/docs/plugins/transform-export-extensions) - Additional Import/Export functionality
 * [babel-plugin-transform-object-rest-spread](http://babeljs.io/docs/plugins/transform-object-rest-spread) - Rest spread
-* [babel-plugin-transform-es2015-modules-commonjs](https://www.npmjs.com/package/babel-plugin-transform-es2015-modules-commonjs) - ES2015 modules exported as commonjs
+
+#### Node Modules
+* Bluebird
