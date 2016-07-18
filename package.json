@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "Babel preset to make node5 utilize es7 with additional enhancements",
   "main": "index.js",
-  "repository": "https:/github.com/TylerGarlick/babel-preset-pundits",
+  "repository": "https://github.com/TylerGarlick/babel-preset-pundits",
   "keywords": [
     "es2015",
     "es7",
