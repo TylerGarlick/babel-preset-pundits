@@ -44,7 +44,7 @@ require('babel-core').transform('code', {
 
 #### Presets
 
-* [babel-preset-es2016-node4](https://www.npmjs.com/package/babel-preset-es2016-node4) - Sets up node5 to be compatible with ES2016 and async
+* [babel-preset-es2016-node6](https://www.npmjs.com/package/babel-preset-es2015-node6) - Sets up node5 to be compatible with ES2016 and async
 * [babel-preset-async-to-bluebird](https://www.npmjs.com/package/babel-preset-async-to-bluebird) -Converts async functions to bluebird coroutines
 
 
