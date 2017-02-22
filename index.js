@@ -6,8 +6,7 @@ module.exports = {
    * Babel Presets
    */
   presets: [
-    require('babel-preset-es2016-node4'),
-    require('babel-preset-async-to-bluebird')
+    require('babel-preset-es2017-node7'),
   ],
 
   /**
